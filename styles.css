@@ -1,0 +1,50 @@
+
+body {
+    
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #87CEEB;
+}
+
+header {
+    background-color: #0d3b66;
+    color: #faf0ca;
+    padding: 20px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+textarea {
+    width: 80%;
+    height: 100px;
+    margin: 10px 0;
+}
+.language-selection {
+    margin-top: 20px;  
+}
+
+select {
+    margin: 20px;
+    padding: 5px;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0d3b66;
+}
+
+p {
+    margin-top: 20px;
+    font-size: 18px;
+}
